@@ -1,0 +1,6 @@
+results*
+log*
+*.out
+*.err
+*.pyc
+.ipynb*
